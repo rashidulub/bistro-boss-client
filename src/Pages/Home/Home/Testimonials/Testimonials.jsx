@@ -42,7 +42,7 @@ const Testimonials = () => {
                             />
 
 
-                            <p className="py-8"> {review.details}</p>
+                            <p className="py-8 "> {review.details}</p>
                             <h3 className="text-2xl text-orange-500 text-center"> {review.name}
                             </h3>
                         </div>
